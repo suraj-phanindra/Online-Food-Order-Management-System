@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body {
+background-color: #F5F5F5;
+font-family: Arial, sans-serif;
+}
+
+h1 {
+color: #333333;
+font-size: 2em;
+text-align: center;
+margin-top: 50px;
+}
+
+nav ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+text-align: center;
+}
+
+nav li {
+display: inline-block;
+margin-right: 20px;
+}
+
+nav a {
+color: #333333;
+text-decoration: none;
+}
+
+nav a:hover {
+color: #FF6600;
+}
+
